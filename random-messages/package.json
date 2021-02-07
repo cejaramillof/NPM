@@ -14,7 +14,7 @@
   "author": "Carlos Jaramillo",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
   "preferGlobal": true
 }
